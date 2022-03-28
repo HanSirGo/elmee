@@ -14,6 +14,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 import "./assets/project.js";
 import Vant from 'vant';
 import 'vant/lib/index.css'
+import "@/api/resetFont.js"
 Vue.use(Vant)
 Vue.use(ElementUI)
 import { Switch } from 'vant';
